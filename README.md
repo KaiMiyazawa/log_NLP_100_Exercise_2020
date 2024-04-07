@@ -1,2 +1,2 @@
 # log_NLP_100_Exercise_2020
-This is log of "NLP 100 Exercise 2020".
+言語処理100本ノック2020に取り組んだ記録です
