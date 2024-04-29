@@ -1,0 +1,10 @@
+argcomplete==3.2.3
+certifi @ file:///private/tmp/certifi-20240307-4874-p3lgkm/certifi-2024.2.2
+cffi @ file:///private/tmp/cffi-20231014-5567-1hyue8f/cffi-1.16.0
+packaging==24.0
+psutil @ file:///private/tmp/python-psutil-20240119-4673-f71z61/psutil-5.9.8
+pycparser==2.22
+PyYAML @ file:///private/tmp/pyyaml-20231018-5610-1rdh755/PyYAML-6.0.1
+setuptools==69.2.0
+six==1.16.0
+wheel @ file:///opt/homebrew/Cellar/python%403.12/3.12.2_1/libexec/wheel-0.43.0-py3-none-any.whl#sha256=b66b1ea367126425ba6ef889a0c0b800a291c380b7c313f2198876288fb9be06
